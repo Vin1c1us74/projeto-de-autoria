@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+#topo {
+    background-color: #1e1e2f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.conteudo {
+    width: 90%;
+    margin: 20px;
+}
+
+.produtos {
+    width: 65%;
+    float: left;
+}
+
+.cardique {
+    background-color: white;
+    border: 2px solid #ccc;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.barra {
+    width: 30%;
+    float: right;
+    background-color: white;
+    padding: 15px;
+    border: 2px #1e1e2f;
+}
+
+.clear {
+    clear: both;
+}
+
+.botaonormal {
+    background-color: #3f3f70;
+}
+
+.botaotufo {
+    background-color: #c72c38;
+}
+
+.rodape {
+    background-color: #1e1e2f;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
